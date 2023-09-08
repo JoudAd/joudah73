@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joud
 - 👀 I’m interested in AI project
 - 🌱 I’m currently learning how to use AI to build intersting tools!
-- 💞️ I’m looking to collaborate on AI project with someone who ha a prior knowladge about that field
+- 💞️ I’m looking to collaborate with someone who ha a prior experince with building AI tools
 - 📫 you can contact me through my email 2210003468@iau.edu.sa
 
 <!---

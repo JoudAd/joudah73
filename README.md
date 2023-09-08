@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joudah73
+- 👋 Hi, I’m @joud
 - 👀 I’m interested in AI project
 - 🌱 I’m currently learning how to use AI to build intersting tools!
 - 💞️ I’m looking to collaborate on AI project with someone who ha a prior knowladge about that field
